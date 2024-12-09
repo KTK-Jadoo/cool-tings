@@ -99,6 +99,4 @@ If you have questions or feedback, feel free to reach out:
 - **Email**: jadoo@berkeley.edu
 - **GitHub**: [KTK-Jadoo](https://github.com/KTK-Jadoo)
 
----
 
-Feel free to adjust this README with your actual repository details, such as screenshots, GitHub username, and contact information. Let me know if you'd like help with anything else! 😊
